@@ -118,4 +118,4 @@ Questo progetto è distribuito sotto licenza **MIT**.
 
 ---
 
-📌 **Creato con ❤️ da [Il Tuo Nome](https://github.com/tuo-utente)**
+📌 **Creato con ❤️ da Ragusa William. S. AKA RocketXX **
